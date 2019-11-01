@@ -1,0 +1,51 @@
+Question - 
+================================
+
+https://www.devopsschool.com/blog/gradle-tasks-are-exaplained-in-10-mins/
+
+
+
+What is Gradle Plugins?
+Everything in GRADLE you see coz of PLUGINS
+                                    - A way to add a features into any tools
+
+- Script plugin
+        You define a TASK and Behaviur
+- Binary plugins
+    Core Binary Plugins -------> THIS IS GIVEN BY GRADLE
+    External Binary Plugins using community repos - YOU COMMUNITY
+    custom Plugins
+
+Build managment tool?
+============================
+Declarative Vs Procedural Scripting Lang
+ANT                Maven
+---------------------------
+YOU                 Maven Would decide
+
+plugins manages everything in Gradle sits on top of two basic concepts: projects and tasks.
+
+Gradle Plugins - 
+        Build.gradle  
+                Projects  
+                    project
+                        tasks
+                            task
+                                actions
+                                vairables
+
+What is Gradle Tasks?
+-----------------------
+Task has following…
+
+Has a Lifecycle
+    Configuration
+    initialization
+    execution
+Has Properties
+Has Actions & Methods
+Has Dependencies
+Script Block
+
+
+1 DAY OF THE PROJECT = DIRECTORY 
